@@ -3,3 +3,9 @@ sentencepiece
 torch
 pandas
 sacrebleu
+datasets
+pypinyin 
+epitran 
+hf_xet 
+protobuf
+ipywidgets
