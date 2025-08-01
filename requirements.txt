@@ -9,3 +9,4 @@ epitran
 hf_xet 
 protobuf
 ipywidgets
+matplotlib
